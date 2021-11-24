@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 -  🎵 Guitar
 -  📓 [My Blog](https://novozzz.xyz)
 -  🔗 [LinkedIn](https://www.linkedin.com/in/yuxiao-zou/)
-
-<img src="https://github-profile-trophy.vercel.app/?username=novozzz&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
