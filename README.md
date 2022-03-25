@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ### 👋 Hi there, I'm Novo!
 
 -  🎓 Northeastern University
--  👨‍💻 Java Developer(Backend, Android)
--  🐶 Dog Person
--  🎵 Guitar
+-  👨‍💻 Software Engineer
 -  📓 [My Blog](https://novozzz.xyz)
 -  🔗 [LinkedIn](https://www.linkedin.com/in/yuxiao-zou/)
